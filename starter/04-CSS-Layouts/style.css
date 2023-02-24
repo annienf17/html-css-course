@@ -12,7 +12,7 @@ body {
   border-top: 10px solid #1098ad;
   position: relative;
 }
-
+/* center content */
 .container {
   width: 800px;
   /* margin-left: auto;
